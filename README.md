@@ -1,4 +1,6 @@
-Bob Shields's Random Colour Box generator as a Github pages test. 
+Bob Shields's Github pages test. 
+
+[First project: Colour Boxes!](https://bobcat-shields.github.io/colour-boxes/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
