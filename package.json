@@ -1,6 +1,6 @@
 {
-  "homepage": "https://bobcat-shields.github.io/colour-boxes",
-  "name": "colour-boxes",
+  "homepage": "https://bobcat-shields.github.io/",
+  "name": "bobcat-shields.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
