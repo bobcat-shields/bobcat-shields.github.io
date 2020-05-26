@@ -1,19 +1,11 @@
 import React from 'react';
 import './App.css';
-import Square from './Square.js';
 
 class App extends React.Component {
   render() {
-    let squareNo = 20
-    let grid = []
-
-    while (squareNo > 0) {
-      grid.push(<Square/>)
-      squareNo -= 1
-    }
 
     return (
-      grid
+      <h1>Hello app with no code.</h1>
     );
   }
 }
